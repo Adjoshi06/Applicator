@@ -1,0 +1,48 @@
+# Environment
+.env
+credentials.json
+gmail_token.json
+drive_token.json
+resume_cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# ChromaDB
+chroma_db/
+*.db
+
+# Data
+jobs/
+resume_cache.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+job_scorer.py
+ollama_client.py
+resume_parser.py
+storage.pym
+main.py
+material_generator.py
+storage.py
+env.example
+company_researcher.py
+QUICKSTART.md
+README.md
+requirements.txt
+
+
+
+
