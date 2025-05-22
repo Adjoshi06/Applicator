@@ -30,10 +30,10 @@ resume_cache.json
 *.swp
 *.swo
 
-job_scorer.py
-ollama_client.py
-resume_parser.py
-storage.pym
+# job_scorer.py
+# ollama_client.py
+# resume_parser.py
+# storage.pym
 main.py
 material_generator.py
 storage.py
