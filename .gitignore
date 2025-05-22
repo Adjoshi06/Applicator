@@ -34,11 +34,11 @@ resume_cache.json
 # ollama_client.py
 # resume_parser.py
 # storage.pym
-main.py
-material_generator.py
-storage.py
+# main.py
+# material_generator.py
+# storage.py
 env.example
-company_researcher.py
+# company_researcher.py
 QUICKSTART.md
 README.md
 requirements.txt
