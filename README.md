@@ -1,4 +1,4 @@
-# Job Application Assistant
+# ApplyFlow
 
 A minimalistic Python application that monitors Gmail for job alerts, parses them using local Llama 3.1 8B (via Ollama), scores jobs based on your resume, and generates customized cover letters and resume highlights.
 
